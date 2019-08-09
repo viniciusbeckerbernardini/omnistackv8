@@ -1,0 +1,4 @@
+#Fri Aug 09 13:28:29 BRT 2019
+base.0=C\:\\Users\\bbbernardini\\Documents\\omnistackv8\\tindev\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+path.0=classes.dex

@@ -62,9 +62,7 @@ function Main({ match }){
 				))}
 				</ul>
 				)
-				: (
-					<div className="empty">Acabou :(</div>
-						)
+				: ( <div className="empty">Acabou :(</div>)
 
 			}
 			

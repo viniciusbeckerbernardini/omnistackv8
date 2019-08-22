@@ -33,14 +33,14 @@ function Main({ match }){
 			}
 		});
 
-		setUsers(users.filter(user=> user._id != id));
+		setUsers(users.filter(user=> user._id !== id));
 	}
 
 	return(
 		<div className="main-container">
 			<img src={logo} alt="tindev"/>
 			
-				{users.lenght > 0 ? 
+				{users.length > 0 ? 
 					(
 					<ul>
 				{users.map(user => (
@@ -62,7 +62,7 @@ function Main({ match }){
 				))}
 				</ul>
 				)
-				: ( <div className="empty">Acabou :(</div>)
+				: ( <div className="empty">Acabou =( </div>)
 
 			}
 			

@@ -1,4 +1,4 @@
-#Fri Aug 09 13:28:29 BRT 2019
-base.0=C\:\\Users\\bbbernardini\\Documents\\omnistackv8\\tindev\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
-renamed.0=classes.dex
+#Mon Aug 19 23:24:17 BRT 2019
+base.0=C\:\\Users\\vbkJi\\Documents\\omnistack\\tindev\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
+renamed.0=classes.dex
